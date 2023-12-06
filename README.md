@@ -1,3 +1,3 @@
-# attendance-system
+# AttendEase
 
 Sistem absensi untuk intern HiSensei
